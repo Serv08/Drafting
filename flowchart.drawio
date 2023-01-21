@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T15:47:02.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WriYVo-z0_LbMHbrczH-" version="20.8.10" type="github"><diagram name="Page-1" id="LrWcgMfSLKKbVMngatSu">5VtLc6M4EP41rjnZxUuAj9k4k52q2d1s5TDJaUsBxWgCiBXyg/n1K4EAY+EsKT/k2IeUUUuA1N3fp+4WGdm3yfqewiz6g4QoHllGuB7Zs5Flmb7l8x8hKSoJMKxKMKc4lINawSP+haTQkNIFDlHeGcgIiRnOusKApCkKWEcGKSWr7rBXEnffmsE5UgSPAYxV6Q8csqiS+sBo5b8jPI/qN5uG7ElgPVgK8giGZLUhsu9G9i0lhFVXyfoWxUJ5tV6q+77u6G0mRlHKhtzw9HeOixvTfRovs5tf1P9pvz2Pbad6zBLGC7liOVtW1CpAIdeIbBLKIjInKYzvWulvlCzSEIn3GLzVjvlOSMaFJhf+RIwV0rxwwQgXRSyJZe8rSZnsNEW7moN48c7FSlFOFjRA76xQrodBOkfsPU3YjU24MyOSIEYLfiNFMWR42Z0IlF41b8a1iucXUvcfsIOlmOGelK5eCoMAp3wSJBULxgwpJsoZJW+Ng1pd5XLHy8S4ZD0XGJ28xmQVRJCySc61wv4RY1YRf+xjBktVrviwxghLRBlav28GVWvyBtsD1S0S/a7EwqqFUgOYaANG9biD69n2FUU/3z1emMtXrjzE5z2dPg9sxRZ//nUOpuAKp8WTfF7ZeBaNCaibs/Vm56zYbD0girl+EJVCHXYF1p52LW+9oRQWGwMyglOWbzz5QQhasI/rPVuC3TK2NqT/GQ98Y8unqhm0HtYsZQ8CUJ3uhqKGZXmoIbwPlw+CS4hj+CKc7KvilzQiycsi38Gdm/SrcPMhiBX4Hd2ZfcxqA5VZ/WMxq2NcA7N6Q5l1qpNZHTWcOA9m1WEKZweSTmOKepqdANuNmVROxyLuvwtSd4zzUm03fIBpZutSd3U/v5qL32+CrFiExU/B9SXyG0xz8VDG96Ay3aFbAaRgsur1fDnVDKqHnTnBWVPtBAeugeCmQ1GlNV1yVFRdHsENNoWrleCmxyO4GamYTUAcLgWhQZECf5v1UhtXMyUByvNPQ3KmtxUx6yc5tR50ccBy6jrieXMccHuAdZ2GAEDrZmMej+Gq3LOiuDyIULiIubFqdmMkhMWX/EJCOMfSzW4u0IEgtMasqSbx641iEm+1tSTR6JSSnkadqtPzZt9HSlDHhPDJSlL7QVit+vyAmLVAi6rgIuW2DlCCSlST1zavqrGp+I+esMGbdOvqjt0DLeuUhfX6QEwTtBo4NSA5OLSOiSJ3IIo0l5XUiOSBIrHgFii7YvNzgM3E81wbuL49dQzDAgZAY7OLI9vQjiO1dFeeBPKd/GDHfnxnSIRhuJX6I4N+V99P+cZWsR/oPgp0L/7oG4CBtOLqTXTUwto9EhswFjl9jNO2kilJhi3oeVCK7Xb5Azi6+cO9gsqYOzTodLVWxrxrOBEbbgutoYurJgCHPoZBZRiUis2avOSILstEPouKHAew/CgO5wymPCSaf54U3u3u2m4fv9k9/Ha8FN7XAaD98ozRh74iOSZYh+YZegturppn3Jbhr/ECgzcRE0BR3Ng7ADhGmOtvffDWF+aeNCDw1OqlnoDgkGUwUyOGhh7LaQ4+zuZDx37uNIfZ3Twf7hxqd08vdx7zOBaHo/qwAsYUwVCsqz6Z5X8J4oHOZ41tvN5P6E4Z23jepfPyqY8nvKEVEL3HE96uCkhdQhWpxBmUOyy7Cxn/iNENb7b/G1N9/dv+h5F99x8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-21T15:56:36.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SUp8VRtjuuKrqJEeyC_f" version="20.8.10" type="github">
+  <diagram name="Page-1" id="LrWcgMfSLKKbVMngatSu">
+    <mxGraphModel dx="2023" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-2" target="XQsiyA16X-vpAzr8j3kY-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-2" value="Go to vaccination site" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="375" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-38" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-33" target="XQsiyA16X-vpAzr8j3kY-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-53" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XQsiyA16X-vpAzr8j3kY-33" target="XQsiyA16X-vpAzr8j3kY-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="200" />
+              <mxPoint x="-10" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-33" value="Are vaccines still available?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="358" y="160" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-40" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-37" target="XQsiyA16X-vpAzr8j3kY-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUo_JMB3Jg8TYCasLrgS-3" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="XQsiyA16X-vpAzr8j3kY-37" target="SUo_JMB3Jg8TYCasLrgS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-37" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Is this your first time for vaccination?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="358" y="290" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-45" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-39" target="XQsiyA16X-vpAzr8j3kY-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-47" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-39" target="XQsiyA16X-vpAzr8j3kY-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-39" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do you have an ID for vaccination process?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="170" y="290" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-43" target="XQsiyA16X-vpAzr8j3kY-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-43" value="Wait for the announcement of your schedule" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="177.5" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-46" target="XQsiyA16X-vpAzr8j3kY-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-46" value="Prepare your ID for vaccination" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1.7763568394002505e-15" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-52" value="Go home" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="100" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-67" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-63" target="XQsiyA16X-vpAzr8j3kY-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-70" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-63" target="XQsiyA16X-vpAzr8j3kY-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-63" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Is there no observed physical distancing?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="820" y="390" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SUo_JMB3Jg8TYCasLrgS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="XQsiyA16X-vpAzr8j3kY-66" target="SUo_JMB3Jg8TYCasLrgS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-66" value="Come back later" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="650" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-71" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-69" target="XQsiyA16X-vpAzr8j3kY-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-78" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-69" target="XQsiyA16X-vpAzr8j3kY-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-69" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Did you already have a meal?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="820" y="510.01" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" parent="1" source="XQsiyA16X-vpAzr8j3kY-75" target="XQsiyA16X-vpAzr8j3kY-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQsiyA16X-vpAzr8j3kY-75" value="Get vaccinated" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="410" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUo_JMB3Jg8TYCasLrgS-5" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="SUo_JMB3Jg8TYCasLrgS-2" target="SUo_JMB3Jg8TYCasLrgS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUo_JMB3Jg8TYCasLrgS-8" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="SUo_JMB3Jg8TYCasLrgS-2" target="XQsiyA16X-vpAzr8j3kY-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SUo_JMB3Jg8TYCasLrgS-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Are you scheduled for today&#39;s vaccination?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="290" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SUo_JMB3Jg8TYCasLrgS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="SUo_JMB3Jg8TYCasLrgS-4" target="XQsiyA16X-vpAzr8j3kY-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUo_JMB3Jg8TYCasLrgS-4" value="Get in line for your turn" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
